@@ -43,3 +43,4 @@ Créer une version simple de l'application permettant :
 
 ## 📁 Structure du projet (prévisionnelle)
 
+life-monit/ ├── src/ │ ├── App.js │ ├── components/ │ │ ├── TaskForm.js │ │ └── TaskList.js │ └── styles/ ├── public/ │ └── index.html ├── package.json └── README.md
