@@ -43,4 +43,39 @@ Créer une version simple de l'application permettant :
 
 ## 📁 Structure du projet (prévisionnelle)
 
-```life-monit/ ├── src/ │ ├── App.js │ ├── components/ │ │ ├── TaskForm.js │ │ └── TaskList.js │ └── styles/ ├── public/ │ └── index.html ├── package.json └── README.md```
+```
+life-monit/ 
+├── src/
+│   ├── App.js
+│   ├── components/
+│   │   ├── TaskForm.js
+│   │   └── TaskList.js
+│   └── styles/
+├── public/
+│   └── index.html
+├── package.json
+└── README.md
+```
+---
+
+## 🔮 Backlog global (vue future)
+
+| Fonctionnalité                          | Priorité | Sprint prévisionnel |
+|----------------------------------------|----------|----------------------|
+| Rappels / Notifications                | Haute    | Sprint 2             |
+| Vue calendrier                         | Moyenne  | Sprint 2/3           |
+| Statistiques de productivité           | Moyenne  | Sprint 3+            |
+| Synchronisation Cloud                  | Basse    | Sprint 3+            |
+| Paramètres (mode sombre, etc.)         | Moyenne  | Sprint 3+            |
+
+---
+
+## 🧠 Notes personnelles
+- Ce projet est également un support de portfolio et d'entraînement personnel à la gestion de projet agile.
+- L’évolution du projet sera visible au fil des commits, avec une documentation continue.
+
+---
+
+## ✨ Auteur
+Développé avec ❤️ par [Ton Prénom / Pseudo]  
+[🔗 LinkedIn ou autre lien si tu veux en ajouter plus tard]
