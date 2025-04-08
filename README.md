@@ -1,14 +1,20 @@
-# 📘 LifeMonit – Sprint 1
+# LifeMonit
 
 ## 🎯 Objectif du projet
-**LifeMonit** est une application personnelle de gestion du temps pensée pour les étudiants en alternance.  
-Elle permet d'organiser ses journées de manière simple et claire, avec une logique d'évolution agile.
 
-> 💡 Ce projet est développé seule, dans une logique d'apprentissage et d'amélioration continue, avec une priorité donnée à la simplicité d’usage et à l’esthétique.
+**LifeMonit** est une application de gestion du temps conçue pour expérimenter et démontrer plusieurs compétences techniques clés dans le cadre de ma formation en Data & Développement.
+
+Ce projet a plusieurs objectifs :
+- **Développer une application web complète** avec une structure propre et évolutive.
+- **Intégrer des services AWS** pour la gestion des notifications, du stockage cloud, de la surveillance des performances, etc.
+- **Mettre en œuvre des fonctionnalités d’analyse de performance**, à partir des données saisies par l’utilisateur (temps passé, fréquence, complétion…).
+- **Travailler l’esthétique et l’ergonomie** pour proposer une expérience utilisateur fluide, agréable et personnalisée.
+
+> Ce projet est développé seule, selon une méthode agile, et constitue un support d’apprentissage, d’expérimentation et de valorisation de mon profil.
 
 ---
 
-## 🚀 Méthodologie
+## Méthodologie
 
 - Méthode : **Agile simplifiée (solo dev)**.
 - Organisation par **sprints courts** (1 semaine).
@@ -17,7 +23,7 @@ Elle permet d'organiser ses journées de manière simple et claire, avec une log
 
 ---
 
-## ✅ Sprint 1 – Objectif
+## Sprint 1 – Objectif
 
 Créer une version simple de l'application permettant :
 
@@ -30,18 +36,22 @@ Créer une version simple de l'application permettant :
 
 ## ⚙️ Stack technique prévue
 
-| Côté           | Technologie              | Statut  |
-|----------------|---------------------------|---------|
-| Front-end      | React.js                  | ✅       |
-| Back-end       | À venir (Flask/API REST)  | ⏳       |
-| Base de données| À venir (SQLite ou autre) | ⏳       |
-| UI Library     | (optionnel) Material UI   | 🔜       |
+| Côté           | Technologie               | Statut actuel    |
+|----------------|---------------------------|------------------|
+| Front-end      | React.js                  | 🟢 En cours      |
+| Back-end       | Flask (API REST)          | ⚪ Prévu         |
+| Base de données| SQLite                    | ⚪ Prévu         |
+| UI Library     | (optionnel) Material UI   | 🔵 Non démarré   |
+| Hébergement    | Vercel / Render           | ⚪ Prévu         |
 
-> 🎯 Le Sprint 1 fonctionne sans back-end : les tâches sont stockées en local (`useState` dans React).
+> Le Sprint 1 fonctionne sans back-end ni base de données : les données sont stockées en mémoire localement via `useState`.
+
+
+> Le Sprint 1 fonctionne sans back-end : les tâches sont stockées en local (`useState` dans React).
 
 ---
 
-## 📁 Structure du projet (prévisionnelle)
+## Structure du projet (prévisionnelle)
 
 ```
 life-monit/ 
@@ -58,7 +68,7 @@ life-monit/
 ```
 ---
 
-## 🔮 Backlog global (vue future)
+## Backlog global (vue future)
 
 | Fonctionnalité                          | Priorité | Sprint prévisionnel |
 |----------------------------------------|----------|----------------------|
@@ -70,12 +80,11 @@ life-monit/
 
 ---
 
-## 🧠 Notes personnelles
+## Notes personnelles
 - Ce projet est également un support de portfolio et d'entraînement personnel à la gestion de projet agile.
 - L’évolution du projet sera visible au fil des commits, avec une documentation continue.
 
 ---
 
-## ✨ Auteur
-Développé avec ❤️ par [Ton Prénom / Pseudo]  
-[🔗 LinkedIn ou autre lien si tu veux en ajouter plus tard]
+## Auteur
+Développé par [Togji TAGBIA-LOUEVIE](https://www.linkedin.com/in/togji-tagbia-louevie-913608167/)
