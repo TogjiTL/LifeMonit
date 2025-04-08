@@ -46,9 +46,6 @@ Créer une version simple de l'application permettant :
 
 > Le Sprint 1 fonctionne sans back-end ni base de données : les données sont stockées en mémoire localement via `useState`.
 
-
-> Le Sprint 1 fonctionne sans back-end : les tâches sont stockées en local (`useState` dans React).
-
 ---
 
 ## Structure du projet (prévisionnelle)
